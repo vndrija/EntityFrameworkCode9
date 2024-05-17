@@ -1,0 +1,75 @@
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.deps.json
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Domain.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Domain.pdb
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.AssemblyInfo.cs
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.CopyComplete
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\refint\Code9.Infrastructure.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\ref\Code9.Infrastructure.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.deps.json
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Domain.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Domain.pdb
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.AssemblyInfo.cs
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.CopyComplete
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\refint\Code9.Infrastructure.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\ref\Code9.Infrastructure.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.deps.json
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Domain.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Domain.pdb
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.AssemblyInfo.cs
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.CopyComplete
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\refint\Code9.Infrastructure.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\ref\Code9.Infrastructure.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.deps.json
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Domain.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Domain.pdb
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.AssemblyInfo.cs
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.CopyComplete
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\refint\Code9.Infrastructure.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\ref\Code9.Infrastructure.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.deps.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\bin\Debug\net6.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.AssemblyInfo.cs
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.In.4A6AC285.Up2Date
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\refint\Code9.Infrastructure.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Infrastructure\obj\Debug\net6.0\ref\Code9.Infrastructure.dll

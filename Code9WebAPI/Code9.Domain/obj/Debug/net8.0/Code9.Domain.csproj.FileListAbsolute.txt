@@ -1,0 +1,88 @@
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.deps.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.AssemblyReference.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfoInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfo.cs
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.CoreCompileInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\refint\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92023\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\ref\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.deps.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.AssemblyReference.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfoInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfo.cs
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.CoreCompileInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\refint\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\ref\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.deps.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.AssemblyReference.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfoInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfo.cs
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.CoreCompileInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\refint\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Stage1Milan\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\ref\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.deps.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.AssemblyReference.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfoInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfo.cs
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.CoreCompileInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\refint\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\UlazTermin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\ref\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.deps.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.AssemblyReference.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfoInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfo.cs
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.CoreCompileInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\refint\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2Input\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\ref\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.AssemblyReference.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfoInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfo.cs
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.CoreCompileInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\refint\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.deps.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\ref\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.runtimeconfig.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Termin2\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.genruntimeconfig.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.deps.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.runtimeconfig.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\bin\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.AssemblyReference.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfoInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.AssemblyInfo.cs
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.csproj.CoreCompileInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\refint\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\Code9.Domain.genruntimeconfig.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Termin2\Termin2Final\Code9WebAPI\Code9.Domain\obj\Debug\net8.0\ref\Code9.Domain.dll

@@ -1,0 +1,245 @@
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.exe
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.deps.json
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.runtimeconfig.json
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.pdb
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.AssemblyReference.cache
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.AssemblyInfoInputs.cache
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.AssemblyInfo.cs
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Code9WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Code9WebAPI.props
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Code9WebAPI.props
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Code9WebAPI.props
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\scopedcss\bundle\Code9WebAPI.styles.css
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.CopyComplete
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\refint\Code9WebAPI.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.pdb
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.genruntimeconfig.cache
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\ref\Code9WebAPI.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Domain.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\u.kovacevic\Desktop\Code9\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Domain.pdb
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.exe
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.deps.json
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.runtimeconfig.json
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.pdb
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Domain.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Domain.pdb
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.AssemblyReference.cache
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.AssemblyInfoInputs.cache
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.AssemblyInfo.cs
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Code9WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Code9WebAPI.props
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Code9WebAPI.props
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Code9WebAPI.props
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\scopedcss\bundle\Code9WebAPI.styles.css
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.CopyComplete
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\refint\Code9WebAPI.dll
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.pdb
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.genruntimeconfig.cache
+C:\Users\u.jovic\Desktop\code9project\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\ref\Code9WebAPI.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.exe
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.deps.json
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.runtimeconfig.json
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.pdb
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Domain.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Domain.pdb
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.AssemblyReference.cache
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.AssemblyInfoInputs.cache
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.AssemblyInfo.cs
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Code9WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Code9WebAPI.props
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Code9WebAPI.props
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Code9WebAPI.props
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\scopedcss\bundle\Code9WebAPI.styles.css
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.CopyComplete
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\refint\Code9WebAPI.dll
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.pdb
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.genruntimeconfig.cache
+C:\Users\u.jovic\Desktop\code9project\backup\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\ref\Code9WebAPI.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.exe
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.deps.json
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.runtimeconfig.json
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.pdb
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Domain.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Domain.pdb
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.AssemblyReference.cache
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.AssemblyInfoInputs.cache
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.AssemblyInfo.cs
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Code9WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Code9WebAPI.props
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Code9WebAPI.props
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Code9WebAPI.props
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\scopedcss\bundle\Code9WebAPI.styles.css
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.CopyComplete
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\refint\Code9WebAPI.dll
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.pdb
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.genruntimeconfig.cache
+C:\Users\m.milovanovic\Desktop\Code9DesignPatterns\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\ref\Code9WebAPI.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.exe
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.deps.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.runtimeconfig.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9WebAPI.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Domain.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Infrastructure.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Infrastructure.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\bin\Debug\net6.0\Code9.Domain.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.AssemblyReference.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.AssemblyInfoInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.AssemblyInfo.cs
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Code9WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Code9WebAPI.props
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Code9WebAPI.props
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Code9WebAPI.props
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\scopedcss\bundle\Code9WebAPI.styles.css
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9Web.DC70FCE0.Up2Date
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\refint\Code9WebAPI.dll
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.pdb
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\Code9WebAPI.genruntimeconfig.cache
+C:\Users\r.kresoja\OneDrive - Levi9 IT Services\Desktop\Code9\Code92024\Materijal\Code9Radionice\Code9 - Termin 1\Code9WebAPI\Code9WebAPI\obj\Debug\net6.0\ref\Code9WebAPI.dll

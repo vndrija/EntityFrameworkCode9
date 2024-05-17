@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Termin2Final\\Code9WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C96E73F-7D93-440B-AD21-2F75B6FFFBCE}|Code9WebAPI\\Code9WebAPI.csproj|c:\\users\\r.kresoja\\onedrive - levi9 it services\\desktop\\code9\\code92024\\termin2\\termin2final\\code9webapi\\code9webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C96E73F-7D93-440B-AD21-2F75B6FFFBCE}|Code9WebAPI\\Code9WebAPI.csproj|solutionrelative:code9webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Termin2Final\\Code9WebAPI\\Code9WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Code9WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Termin2Final\\Code9WebAPI\\Code9WebAPI\\Program.cs",
+              "RelativeToolTip": "Code9WebAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:02:02.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
